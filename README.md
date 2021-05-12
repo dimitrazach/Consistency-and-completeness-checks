@@ -1,5 +1,5 @@
 # Consistency-and-completeness-checks
-  ## An ArcMap Tool for checking topo-semantic consistency and completeness of a VGI dataset.
+  ## An ArcGIS Tool for checking topo-semantic consistency and completeness of a VGI dataset.
 This Toolbox was developed to evaluate the quality of a VGI (Volunteered Geographic Information) dataset, such as OpenStreetMap. The purpose of this Toolbox is to implement automated checks for the quality of the dataset and in particular for its completeness and topo-semantic consistency. The GIS user enters his data (which are divided into thematic layers e.g. points of interests, buildings, roads, etc.), the area of interest and fills in the required fields in the tool he chooses to run each time. The tool is executed and presents the results qualitatively and quantitatively. In this way the user is able to be informed about the consistency, the topology and the completeness of his dataset, the errors that exist in his data and decide on their suitability for use.
 
 ![ArcMap Tool](https://user-images.githubusercontent.com/84000953/117939151-780e8c00-b310-11eb-93e9-08384c1ff486.png)
